@@ -1,4 +1,4 @@
-package org.example.tarefas.tarefa08;
+package org.example.tarefas.tarefa08.login;
 
 import org.example.tarefas.tarefa08.login.Login;
 
