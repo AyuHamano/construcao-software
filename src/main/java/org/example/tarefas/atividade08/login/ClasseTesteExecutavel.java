@@ -1,6 +1,4 @@
-package org.example.tarefas.tarefa08.login;
-
-import org.example.tarefas.tarefa08.login.Login;
+package org.example.tarefas.atividade08.login;
 
 public class ClasseTesteExecutavel {
     public static void main(String args[]){

@@ -1,6 +1,6 @@
-package org.example.tarefas.tarefa08.login;
+package org.example.tarefas.atividade08.login;
 
-import org.example.tarefas.tarefa08.exceptionsCustomizadas.LoginInvalidoException;
+import org.example.tarefas.atividade08.exceptionsCustomizadas.LoginInvalidoException;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;

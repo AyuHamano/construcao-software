@@ -1,4 +1,4 @@
-package org.example.tarefas.tarefa07.endereco;
+package org.example.tarefas.atividade07.endereco;
 
 import java.util.ArrayList;
 import java.util.Date;

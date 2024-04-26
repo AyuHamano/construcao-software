@@ -1,8 +1,6 @@
-package org.example.tarefas.tarefa08.contaBancaria;
+package org.example.tarefas.atividade08.contaBancaria;
 
-import org.example.tarefas.tarefa08.exceptionsCustomizadas.SaldoInsuficienteException;
-
-import java.util.Scanner;
+import org.example.tarefas.atividade08.exceptionsCustomizadas.SaldoInsuficienteException;
 
 public class ContaBancaria {
     private double saldo;

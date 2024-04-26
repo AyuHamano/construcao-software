@@ -1,6 +1,6 @@
-package org.example.tarefas.tarefa08.exceptionsCustomizadas;
+package org.example.tarefas.atividade08.exceptionsCustomizadas;
 
-import org.example.tarefas.tarefa08.login.Login;
+import org.example.tarefas.atividade08.login.Login;
 
 public class LoginInvalidoException extends Exception {
     private Login login;

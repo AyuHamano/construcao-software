@@ -1,4 +1,4 @@
-package org.example.tarefas.tarefa08.numeros;
+package org.example.tarefas.atividade08.numeros;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

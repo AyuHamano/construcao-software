@@ -1,4 +1,4 @@
-package org.example.tarefas.tarefa08.contaBancaria;
+package org.example.tarefas.atividade08.contaBancaria;
 
 import java.util.Scanner;
 

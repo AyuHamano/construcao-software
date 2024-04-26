@@ -1,4 +1,4 @@
-package org.example.tarefas.tarefa08.exceptionsCustomizadas;
+package org.example.tarefas.atividade08.exceptionsCustomizadas;
 
 public class SaldoInsuficienteException extends Exception{
     @Override
